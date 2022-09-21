@@ -36,7 +36,7 @@ implementation
 procedure TForm1.Button1Click(Sender: TObject);
 
   var
-  N, fake, diff, w, d, P, fakeP, i: integer;
+  N, fake, diff, w, d, P, fakeP, i: int16;
   fakeN: single;
 
   begin
